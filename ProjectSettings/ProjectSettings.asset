@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: UnityTestYo
+  productName: UnityProjectPlaygroundCH
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: UnityTestYo
+  metroPackageName: UnityProjectPlaygroundCH
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: UnityTestYo
+  metroApplicationDescription: UnityProjectPlaygroundCH
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -919,7 +919,7 @@ PlayerSettings:
   cloudProjectId: 2a4a6c85-271b-4bd3-b1c7-f0686c5f8816
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: UnityTestYo
+  projectName: UnityProjectPlaygroundCH
   organizationId: cbcf765-c669-422d-b507-818256c06682
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

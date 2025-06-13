@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using System.Runtime.InteropServices;
 
-namespace UnityTestYo
+namespace UnityProjectPlaygroundCH
 {
     /// <summary>
     /// Implementation of testing input events.

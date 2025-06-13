@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace UnityTestYo
+namespace UnityProjectPlaygroundCH
 {
     /// <summary>
     /// Component that listens to input events and notifies the <see cref="InputTest" /> implementation.
