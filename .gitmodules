@@ -1,0 +1,3 @@
+[submodule "Packages/com.christianhinkle.packageplayground"]
+	path = Packages/com.christianhinkle.packageplayground
+	url = https://github.com/ChristianHinko/com.christianhinkle.packageplayground
